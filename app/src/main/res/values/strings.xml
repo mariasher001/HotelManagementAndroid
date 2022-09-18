@@ -4,4 +4,13 @@
     <string name="enter_your_email_address">Enter your email address</string>
     <string name="enter_password">Enter password</string>
     <string name="login">Login</string>
+    <string name="register">REGISTER</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="or">OR</string>
+    <string name="enter_email_here">Enter Email here</string>
+    <string name="enter_6_digit_password"><![CDATA[Enter > 6 digit password]]></string>
+    <string name="enter_the_key">Enter the key</string>
+    <string name="enter_username_here">Enter Username here</string>
+    <string name="enter_your_username_address">enter_your_userName_address</string>
+    <string name="enter_your_username">Enter your username</string>
 </resources>
