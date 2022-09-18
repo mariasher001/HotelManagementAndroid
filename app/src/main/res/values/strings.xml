@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HotelManagementAndroid</string>
+    <string name="hotel_management">Hotel Management</string>
+    <string name="enter_your_email_address">Enter your email address</string>
+    <string name="enter_password">Enter password</string>
+    <string name="login">Login</string>
+</resources>
